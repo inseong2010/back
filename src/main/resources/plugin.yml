@@ -1,0 +1,10 @@
+name: Back
+version: '${project.version}'
+main: kr.co.skeleton.back.Back
+api-version: 1.19
+authors: [ skeleton2010 ]
+description: A plugin that backs you to where you died
+website: skeleton.co.kr
+
+commands:
+  back:
